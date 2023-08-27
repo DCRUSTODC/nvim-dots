@@ -13,6 +13,15 @@
 
 <img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/953b500a/Screenshot_20230827_103424.png">
 
+## Previews with ```C++```
+
+<details>
+<summary>🌻 Latte</summary>
+<img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/d25a4e46/Pictures/Screenshot_20230827_111110.png">
+</details>
+
+
+
 
 ## What is it?
 
