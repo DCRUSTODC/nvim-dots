@@ -28,3 +28,7 @@
 - This is a custom config for `C++` in NvChad.
 - First, install <a href="https://nvchad.com/">NvChad</a>.
 - Second, follow first, and you'll know the rest.
+- Third, cram [these](/commands.md) commands and you're good to go.
+
+## Further steps
+Contribute to the repository.
