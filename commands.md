@@ -11,4 +11,5 @@ If you ignore the above advice and continue skipping to the intermediate Arch us
 - .
 - .
 - .
-![cheatsheet](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/b797b71d-9eba-4948-9885-2228eb409041)
+
+![cheatsheet](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/7a52e7bb-bf7c-48d0-938f-fbb61391141b)
