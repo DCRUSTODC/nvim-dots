@@ -10,11 +10,7 @@
   
 ## Showcase
 
-<img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/953b500a/Screenshot_20230827_103424.png">
-
-## Preview with ```C++```
- <img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/d25a4e46/Pictures/Screenshot_20230827_111110.png">
-</details>
+## Preview with `C++`
 
 ## What is this about?
 
@@ -27,5 +23,5 @@
 ## How to be a chad?
 
 - Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads".
-- This is a custom config for ```C++``` in NvChad.
+- This is a custom config for `C++` in NvChad.
 - First, install <a href="https://nvchad.com/">NvChad</a>.
