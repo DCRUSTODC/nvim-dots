@@ -21,3 +21,9 @@
 - Lazy loading is done 93% of the time meaning that plugins will not be loaded by default, they will be loaded only when required also at specific commands, events etc. This lowers the startuptime and it was like 0.07~ secs tested on an old pentium machine 1.4ghz + 4gb ram & HDD.
 
 - NvChad isn't a framework! It's supposed to be used as a "base" config, so users can tweak the defaults well, and also remove the things they don't like in the default config and build their config on top of it. Users can tweak the entire default config while staying in their custom config (lua/custom dir). This is the control center of the user's config and gitignored so the users can stay up-to-date with NvChad's latest config (main branch) while still controlling it with their chadrc (file that controls entire custom dir).
+
+## How to be a chad ? 
+- Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads"
+
+- This is a custom config for NvChad.
+- First, install <a href="https://nvchad.com/">NvChad</a>.
