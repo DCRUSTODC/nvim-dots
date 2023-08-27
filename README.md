@@ -9,8 +9,10 @@
 </div>
   
 ## Showcase
+![Screenshot_20230827_103424](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/1f883a01-844c-4b63-b1a8-c259da81ff57)
 
 ## Preview with `C++`
+![Screenshot_20230827_111110](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/617e1f12-9c9e-4cd0-8865-d607d4412b16)
 
 ## What is this about?
 
@@ -25,3 +27,4 @@
 - Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads".
 - This is a custom config for `C++` in NvChad.
 - First, install <a href="https://nvchad.com/">NvChad</a>.
+- Second, follow first, and you'll know the rest.
