@@ -25,5 +25,5 @@
 ## How to be a chad ? 
 - Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads"
 
-- This is a custom config for NvChad.
+- This is a custom config for ```C++``` in NvChad.
 - First, install <a href="https://nvchad.com/">NvChad</a>.
