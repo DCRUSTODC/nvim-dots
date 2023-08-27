@@ -8,6 +8,11 @@
 
 
   </div>
+  
+## Showcase
+
+<img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/953b500a/Screenshot_20230827_103424.png">
+
 
 ## What is it?
 
