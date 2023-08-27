@@ -1,4 +1,4 @@
-# NvChad-setup-for-CPP
+# nvim-dots
 
 <div align="center">
  
@@ -6,33 +6,26 @@
 [![GitHub Issues](https://img.shields.io/github/issues/DCRUSTODC/NvChad-setup-for-CPP.svg?style=flat-square&label=Issues&color=d77982)](https://github.com/DCRUSTODC/NvChad-setup-for-CPP/issues)
 [![Discord](https://img.shields.io/discord/793413524269039626?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/TPf9vrAA)
 
-
-  </div>
+</div>
   
 ## Showcase
 
 <img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/953b500a/Screenshot_20230827_103424.png">
 
-## Previews with ```C++```
-
-<details>
-<summary>CPP</summary>
-<img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/d25a4e46/Pictures/Screenshot_20230827_111110.png">
+## Preview with ```C++```
+ <img src= "https://cdn.statically.io/gh/DCRUSTODC/NvChad-setup-for-CPP/d25a4e46/Pictures/Screenshot_20230827_111110.png">
 </details>
 
+## What is this about?
 
+- This repository contains a minimal config written in Lua aiming to provide a base configuration with beautiful UI and blazing fast start-up time (around 0.02 secs ~ 0.07 secs). This tweaks UI plugins such as telescope, nvim-tree, bufferline, etc. well to provide an aesthetic UI experience on neovim.
 
+- Lazy loading happens 93% of the time meaning that plugins will not be loaded by default, they will be loaded only when required at specific commands and events. This lowers the start-up time and it was like 0.07~ secs tested on an old pentium machine 1.4ghz + 4gb ram & HDD, smooth.
 
-## What is it?
+- This isn't a framework! It's supposed to be used as a "base" config, so users of Arch based distros can tweak the defaults well, and also remove the things they don't like in the default config and build their config on top of it. Users can tweak the entire default config file while staying in their custom configs [here](/lua/custom). This is the control center of the user's config and is gitignored so the users can stay up-to-date with neovim's latest config (main branch) while still controlling it with their chadRC (the file that controls entire custom dir).
 
-- NvChad is a neovim config written in lua aiming to provide a base configuration with very beautiful UI and blazing fast startuptime (around 0.02 secs ~ 0.07 secs). We tweak UI plugins such as telescope, nvim-tree, bufferline etc well to provide an aesthetic UI experience. 
+## How to be a chad?
 
-- Lazy loading is done 93% of the time meaning that plugins will not be loaded by default, they will be loaded only when required also at specific commands, events etc. This lowers the startuptime and it was like 0.07~ secs tested on an old pentium machine 1.4ghz + 4gb ram & HDD.
-
-- NvChad isn't a framework! It's supposed to be used as a "base" config, so users can tweak the defaults well, and also remove the things they don't like in the default config and build their config on top of it. Users can tweak the entire default config while staying in their custom config (lua/custom dir). This is the control center of the user's config and gitignored so the users can stay up-to-date with NvChad's latest config (main branch) while still controlling it with their chadrc (file that controls entire custom dir).
-
-## How to be a chad ? 
-- Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads"
-
+- Step 1 - Born as a chad. JK... no one is a chad by birth. One has to work on himself to be ranked among "Chads".
 - This is a custom config for ```C++``` in NvChad.
 - First, install <a href="https://nvchad.com/">NvChad</a>.
