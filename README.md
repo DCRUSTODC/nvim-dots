@@ -9,7 +9,7 @@
 </div>
   
 ## Showcase
-![Screenshot_20230827_103424](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/1f883a01-844c-4b63-b1a8-c259da81ff57)
+![image](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/e7fcd7ee-d70e-4cff-a9db-e0bacf686bd6)
 
 ## Preview with `C++`
 ![Screenshot_20230827_111110](https://github.com/DCRUSTODC/nvim-dots/assets/76242518/617e1f12-9c9e-4cd0-8865-d607d4412b16)
