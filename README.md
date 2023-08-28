@@ -30,5 +30,11 @@
 - Second, follow first, and you'll know the rest.
 - Third, cram [these](/commands.md) commands and you're good to go.
 
+## Features
+
+- ## Mason
+  A plugin for Neovim that can be used to install different LSP servers, linters and formatters.
+  This plugin can be accessed by using the keyword `Mason` in `COMMAND MODE`.
+
 ## Further steps
 Contribute to the repository.
